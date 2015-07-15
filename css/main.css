@@ -339,3 +339,11 @@ img {
   padding-top: 10px;
   padding-bottom: 40px;
 }
+
+i {
+  padding-top: 70px;
+  color: #fff;
+  -vendor-animation-duration: 5s;
+  -vendor-animation-delay: 2s;
+  -vendor-animation-iteration-count: infinite;
+}
